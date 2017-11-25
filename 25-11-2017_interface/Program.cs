@@ -9,6 +9,7 @@ namespace _25_11_2017_interface
 
     interface IAutoShop {
 
+        //Yevgeniy G
         string CarName { set; get; }
         int MaxSpeed { get; set; }
         int ID { set; get; }
